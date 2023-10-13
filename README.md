@@ -6,6 +6,7 @@
         * display
         * text-decoration
         * padding / or width
+     * Add a 'hover' effect to the buttons. If you look back at Week 3 and using psuedo classes with hyperlinks. 
 
 2. Download the file [flexbox.html](flexbox.html).
     * Add some CSS to this page. Check it works.
@@ -26,15 +27,15 @@
     * Put an outline around each of the <div> elements.
     * Using the grid properties create the following arrangements. For the second, third and fourth examples the grid should resize to the browser width.
 
-(a)
      ![Grid 1](grid1.png "Grid Example")
-(b)
+
     ![Grid 2](grid2.png "Grid Example")
-(c)
+
     ![Grid 3](grid3.png "Grid Example")
-(d)
+
     ![Grid 4](grid4.png "Grid Example")
 
+   * Can you create a layout like the third of these images by using the flexbox instead of CSS grids. One way of doing this is to use flex-wrap - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap.
 
 4. Change the *div* tags in the CSS Grid example to use suitable semantic elements e.g. *header*, *footer* etc. Add CSS to create the 'holy grail' of web design i.e. a full width header and footer, and three columns.
 
