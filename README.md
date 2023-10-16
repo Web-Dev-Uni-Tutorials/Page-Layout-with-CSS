@@ -6,7 +6,8 @@
         * display
         * text-decoration
         * padding / or width
-     * Add a 'hover' effect to the buttons. If you look back at Week 3 and using psuedo classes with hyperlinks. 
+     * Add a 'hover' effect to the buttons. If you look back at Week 3 and using psuedo classes with hyperlinks.
+     * If you can get this to work. Can you create an animated hover using a CSS transition see https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions for some advice. 
 
 2. Download the file [flexbox.html](flexbox.html).
     * Add some CSS to this page. Check it works.
