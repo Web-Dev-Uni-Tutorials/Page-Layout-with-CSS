@@ -44,3 +44,20 @@
 5. Combine some of the above:
     * Use a flexbox to arrange the navigation options in exercise 1
     * Place this navigation bar in the header of exercise 4.
+  
+## Resources to help
+
+### General CSS
+* https://web.dev/learn/css/
+* https://developer.mozilla.org/en-US/docs/Learn/CSS
+
+### Flexbox
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+* https://flexboxfroggy.com/
+
+### CSS Grids
+* https://css-tricks.com/snippets/css/complete-guide-grid/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+* https://cssgridgarden.com/
